@@ -27,6 +27,7 @@ All the ETL process was performed with Power Query in the Power BI Desktop softw
      ![image](https://github.com/Luis-Baltodano/water_indicators/assets/163363364/31aceb60-fc4b-4c31-b573-bc350a3f438a)
 
      To this country query was added the flag API, adding a custom column that combined the pre-defined text of the API and the country ISO code.
+     
      ![image](https://github.com/Luis-Baltodano/water_indicators/assets/163363364/3aafa3a5-a4f9-4982-badb-e1adbc2c582c)
 
 
