@@ -17,17 +17,17 @@ All the ETL process was performed with Power Query in the Power BI Desktop softw
   1. Data loading and inspection.
 
      The table had an impractical structure, having all the years in different columns, selecting all the years columns and using the Unpivot columns tool gives a better structure to work with.
-     ![image](https://github.com/Luis-Baltodano/wate_indicators/assets/163363364/024f395d-954f-4381-8ec6-c8a49e381b5d)
-     ![image](https://github.com/Luis-Baltodano/wate_indicators/assets/163363364/4b3516c8-3aaf-4ad6-b133-5bd0047e7975)
+     ![image](https://github.com/Luis-Baltodano/water_indicators/assets/163363364/024f395d-954f-4381-8ec6-c8a49e381b5d)
+     ![image](https://github.com/Luis-Baltodano/water_indicators/assets/163363364/4b3516c8-3aaf-4ad6-b133-5bd0047e7975)
 
      The countries general information was downloaded in a json file and then parsed to obtained a table with needed information like ISO codes and countrie's income level.
-     ![image](https://github.com/Luis-Baltodano/wate_indicators/assets/163363364/cb5abf5d-7ff0-4a65-8e70-6b9043d8a84e)
+     ![image](https://github.com/Luis-Baltodano/water_indicators/assets/163363364/cb5abf5d-7ff0-4a65-8e70-6b9043d8a84e)
      
      Then this query was merged with another query that only had the countries in the region being analyzed, Latin America and Caribbean, and the population. Filtering just the needed data.
-     ![image](https://github.com/Luis-Baltodano/wate_indicators/assets/163363364/31aceb60-fc4b-4c31-b573-bc350a3f438a)
+     ![image](https://github.com/Luis-Baltodano/water_indicators/assets/163363364/31aceb60-fc4b-4c31-b573-bc350a3f438a)
 
      To this country query was added the flag API, adding a custom column that combined the pre-defined text of the API and the country ISO code.
-     ![image](https://github.com/Luis-Baltodano/wate_indicators/assets/163363364/3aafa3a5-a4f9-4982-badb-e1adbc2c582c)
+     ![image](https://github.com/Luis-Baltodano/water_indicators/assets/163363364/3aafa3a5-a4f9-4982-badb-e1adbc2c582c)
 
 
     
