@@ -30,6 +30,17 @@ All the ETL process was performed with Power Query in the Power BI Desktop softw
      
      ![image](https://github.com/Luis-Baltodano/water_indicators/assets/163363364/3aafa3a5-a4f9-4982-badb-e1adbc2c582c)
 
+2. Missing values
+
+   The column value for every series downloaded had many missing values, denominated by double hyphen (--), the most missing values belonged to years 2022 and 2023, so these years were excluded from the analysis.
+   ![image](https://github.com/Luis-Baltodano/water_indicators/assets/163363364/d76ef7e9-8a59-4e84-8639-bc9312fcc72a)
+
+   Then the missing values were replaced by empty values, so they don't interfer with the following calculations.
+   ![image](https://github.com/Luis-Baltodano/water_indicators/assets/163363364/eaedc08f-5cc9-4d8f-b810-6a2d80de1aaf)
+
+   
+
+
 
 
 
