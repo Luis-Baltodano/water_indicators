@@ -55,6 +55,16 @@ To get the different values for each indicator was created a SUM measure of the 
 
 ![image](https://github.com/user-attachments/assets/b521a2e3-a434-4be6-9fea-173a53e8e5db)
 
+2. Freshwater withdrawal by sector
+
+The data provided by the World Bank determined three clasifications of economic activities: **Agriculture, Domestic and Industry** being the agriculture the sector that used the most part of the resource in almost every country in the region. Understanding these the next step was to see the changes of the water withdrawal in the time and by income level.
+
+First were created a different measure for calculate the average value in percentage of the water withdrawal for each sector.
+
+![image](https://github.com/user-attachments/assets/7f9bfab1-f7d6-4689-9e78-0160be5310ed)
+
+
+
 
 ### Results/Findings
 
