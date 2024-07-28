@@ -43,16 +43,18 @@ All the ETL process was performed with Power Query in the Power BI Desktop softw
 
    ![image](https://github.com/Luis-Baltodano/water_indicators/assets/163363364/f61e0a0f-f144-44c5-94af-63e88163d41a)
 
-### Exploratory Data Analysis
+### Data Analysis
 
 1. Water stress status
 
-According to the Food and Agriculture Organization of the United Nations, a value of 40% of water withdrawal as a proportion of available resource may considered as high water stress. So first we need to understand the actual state of the region, using values of the year 2020, because this was the year with more data. Seeing that only three countries were in high stress for that year and only three in medium range.
+According to the Food and Agriculture Organization of the United Nations, a value of 40% of water withdrawal as a proportion of available resource may considered as high water stress. So first we need to understand the actual state of the region, using values of the year 2020, because this was the year with more data. Seeing that only three countries were in high stress for that year and only three in medium range, considering that in the region are forty-two countries, we can say that there was enough water resource to supply all economic activities in the region.
 
 ![image](https://github.com/user-attachments/assets/64c061f8-a504-452c-993d-4bc7427d5998)
 
+To get the different values for each indicator was created a SUM measure of the values, which was evaluated with the calculate function for the indicator of interest and the year of study in the case of some measures like the water stress.
 
-### Data Analysis
+![image](https://github.com/user-attachments/assets/b521a2e3-a434-4be6-9fea-173a53e8e5db)
+
 
 ### Results/Findings
 
