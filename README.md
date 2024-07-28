@@ -47,7 +47,10 @@ All the ETL process was performed with Power Query in the Power BI Desktop softw
 
 1. Water stress status
 
-According to the Food and Agriculture Organization of the United Nations, a value of 40% of water withdrawal as a proportion of available resource may considered as high water stress. So first we need to understand the actual state of the region, using values o
+According to the Food and Agriculture Organization of the United Nations, a value of 40% of water withdrawal as a proportion of available resource may considered as high water stress. So first we need to understand the actual state of the region, using values of the year 2020, because this was the year with more data. Seeing that only three countries were in high stress for that year and only three in medium range.
+
+![image](https://github.com/user-attachments/assets/64c061f8-a504-452c-993d-4bc7427d5998)
+
 
 ### Data Analysis
 
