@@ -45,6 +45,10 @@ All the ETL process was performed with Power Query in the Power BI Desktop softw
 
 ### Exploratory Data Analysis
 
+1. Water stress status
+
+According to the Food and Agriculture Organization of the United Nations, a value of 40% of water withdrawal as a proportion of available resource may considered as high water stress. So first we need to understand the actual state of the region, using values o
+
 ### Data Analysis
 
 ### Results/Findings
