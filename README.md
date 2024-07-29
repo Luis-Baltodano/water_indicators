@@ -67,7 +67,20 @@ The withdrawal in the agriculture sector decrease 5.6% from 1998 to 2020, the do
 
 ![image](https://github.com/user-attachments/assets/9d89fc55-054b-465c-a3a3-5a493ed3a0cb)
 
-This does not mean that the total water used in agriculture had decreased, on the contrary, the total volume of water withdrawal has increase over the years. So the variations in the perecentage value may indicate an increased in the access for urban and rural population in the region.
+This does not mean that the total water used in agriculture had decreased, on the contrary, the total volume of water withdrawal has increase over the years, from 133 billions to 216 billions of m³. So the variations in the perecentage value may indicate the increased in the access to water for urban and rural population in the region. 
+
+![image](https://github.com/user-attachments/assets/bb2bb683-bf5d-41f9-8741-f89570c301ac)
+
+To calculate the volume in cubic meters of water withdrawal by sector we just multiply the total water withdrawal given by the World development indicator, by the average percentage for each sector, multipliyin by 1 billion to have complete values.
+
+![image](https://github.com/user-attachments/assets/cf8f82a6-994e-43bb-b2b3-e52a9e31c8e4)
+
+![image](https://github.com/user-attachments/assets/58fd5152-ed8f-4e53-9b1c-1c17a332e3f3)
+
+We can see that the three sectors has increased the total volume of water used, but this has not impact the water stress index along the period. The water stress in the regiong augment 0.9% from 1998 to 2020.
+
+![image](https://github.com/user-attachments/assets/79d59689-058c-4349-8220-9e5b2ae5c7e2)
+
 
 
 ### Results/Findings
