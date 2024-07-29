@@ -77,7 +77,7 @@ To calculate the volume in cubic meters of water withdrawal by sector we just mu
 
 ![image](https://github.com/user-attachments/assets/58fd5152-ed8f-4e53-9b1c-1c17a332e3f3)
 
-We can see that the three sectors has increased the total volume of water used, but this has not impact the water stress index along the period. The water stress in the regiong augment 0.9% from 1998 to 2020.
+We can see that the three sectors has increased the total volume of water used, but this had not a significant impact in the water stress index along the period. The water stress in the regiong augment 0.9% from 1998 to 2020.
 
 ![image](https://github.com/user-attachments/assets/79d59689-058c-4349-8220-9e5b2ae5c7e2)
 
