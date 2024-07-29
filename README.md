@@ -63,7 +63,11 @@ First were created a different measure for calculate the average value in percen
 
 ![image](https://github.com/user-attachments/assets/7f9bfab1-f7d6-4689-9e78-0160be5310ed)
 
+The withdrawal in the agriculture sector decrease 5.6% from 1998 to 2020, the domestic sector present an increase of 7.3% and the industry an increase of 2%. 
 
+![image](https://github.com/user-attachments/assets/9d89fc55-054b-465c-a3a3-5a493ed3a0cb)
+
+This does not mean that the total water used in agriculture had decreased, on the contrary, the total volume of water withdrawal has increase over the years. So the variations in the perecentage value may indicate an increased in the access for urban and rural population in the region.
 
 
 ### Results/Findings
