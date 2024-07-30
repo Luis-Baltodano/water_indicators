@@ -69,7 +69,7 @@ The withdrawal in the agriculture sector decrease 5.6% from 1998 to 2020, the do
 
 This does not mean that the total water used in agriculture had decreased, on the contrary, the total volume of water withdrawal has increase over the years, from 133 billions to 216 billions of m³. So the variations in the perecentage value may indicate the increased in the access to water for urban and rural population in the region. 
 
-![image](https://github.com/user-attachments/assets/bb2bb683-bf5d-41f9-8741-f89570c301ac)
+![image](https://github.com/user-attachments/assets/9f7db121-4017-4f14-9739-cc26b56742a6)
 
 To calculate the volume in cubic meters of water withdrawal by sector we just multiply the total water withdrawal given by the World development indicator, by the average percentage for each sector, multipliyin by 1 billion to have complete values.
 
