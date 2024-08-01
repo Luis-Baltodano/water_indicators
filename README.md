@@ -94,12 +94,33 @@ We can see that the three sectors has increased the total volume of water used, 
 
 Drilling through each country we can see some relevant data like population in the year 2020, the GDP and the income level clasification. The agriculture sector represents the major withdrawal of freshwater, mostly in Lower and Upper middle income countries. In the analysis by country we can see the water usage distribution along the three economic sectors and the water productivity factor for agriculture.
 
-![image](https://github.com/user-attachments/assets/f36cde60-0c9b-4f3f-92e9-836e9c7b5c65)
+![image](https://github.com/user-attachments/assets/c542b325-6be6-4567-91e3-b05e4c91b052)
 
+The water productivity factor helps to understand the water use efficiency in terms of money, it is expressed in dollar by cubic meter. This factor is important to support sustainable water management, and maximizing the economic and environmental benefits derived from water resources.
 
+The World Economic Development database gives us the series indicator of percentage of GDP for agricultre, foresty and fishing, with the GDP we can calculate the amount of money for the sector.
 
+![image](https://github.com/user-attachments/assets/5c720eeb-caba-40ea-aeb2-a6a5eec798dd)
+
+With the percentage of water withdrawal for agricultre and the total water withdrawal expressed in cubic meters, was calculated the amount of cubic meters for agriculture.
+
+![image](https://github.com/user-attachments/assets/a59ce156-488c-4a82-b3c8-c89fe43c260a)
+
+Then just need to divide the GDP for agriculture by the water withdrawal for this sector.
+
+![image](https://github.com/user-attachments/assets/fa674b16-bf1c-4cf4-bacd-3e746d4a275f)
 
 ### Results/Findings
+
+1. There is enough resource to supply the needs in all social and economics sector in the region. But some factors like the geographical location (islands) can derrived in a limited water resource, increasing the water stress.
+
+2. The agriculture and domestic sectors have increased their water withdrawal. Which means an increase in drinking water coverage, but also that there must be special attention to the agriculture activities to guarantee an efficient use of the resource. Though industry sector has increased its water needs, the growth of this sector had been slower than agriculture and domestic.
+
+3. The water productivity in agriculture can be affected for different factors beside the water withdrawal. A further analysis in this topic for those special years with peaks can help to understand how to inprove the benefits reducing the wastes in water resource by inproving these other related factors.
+
+4. 
+
+
 
 ### Recommendations
 
