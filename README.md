@@ -92,7 +92,10 @@ We can see that the three sectors has increased the total volume of water used, 
 
 3. Country analysis
 
-Drilling through each country we can see some relevant data like population in the year 2020, the GDP and the income level clasification. 
+Drilling through each country we can see some relevant data like population in the year 2020, the GDP and the income level clasification. The agriculture sector represents the major withdrawal of freshwater, mostly in Lower and Upper middle income countries. In the analysis by country we can see the water usage distribution along the three economic sectors and the water productivity factor for agriculture.
+
+![image](https://github.com/user-attachments/assets/f36cde60-0c9b-4f3f-92e9-836e9c7b5c65)
+
 
 
 
