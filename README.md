@@ -47,9 +47,18 @@ All the ETL process was performed with Power Query in the Power BI Desktop softw
 
 1. Water stress status
 
-According to the Food and Agriculture Organization of the United Nations, a value of 40% of water withdrawal as a proportion of available resource may considered as high water stress. So first we need to understand the actual state of the region, using values of the year 2020, because this was the year with more data. Seeing that only three countries were in high stress for that year and only three in medium range, considering that in the region are forty-two countries, we can say that there was enough water resource to supply all economic activities in the region.
+According to the Food and Agriculture Organization of the United Nations, a value of 40% of water withdrawal as a proportion of available resource may considered as high water stress. So first we need to understand the actual state in the region, using values of the year 2020, because this was the year with more data. Seeing that only three countries were in high stress for that year and only three in medium range, considering that in the region are forty-two countries, we can say that there was enough water resource to supply all economic activities in the region.
 
 ![image](https://github.com/user-attachments/assets/64c061f8-a504-452c-993d-4bc7427d5998)
+
+The countries with more water stress are located in the Caribbean region.
+
+![image](https://github.com/user-attachments/assets/90d7abf5-85bc-4669-ba39-ca6b248d617e)
+
+We can see that geographical location has a greater impact on water stress. Islands tend to experience higher water stress, for reasons like limited resources, dependency on rainfall and high domestic demand. with high population density, tourism, and agriculture, islands may have a water demand that exceeds the available supply. The Caribbean region experiences higher stress, with countries in this region having lower consumption.
+
+![image](https://github.com/user-attachments/assets/183cd45b-1231-40b8-b35c-f400e09b5626)
+
 
 To get the different values for each indicator was created a SUM measure of the values, which was evaluated with the calculate function for the indicator of interest and the year of study in the case of some measures like the water stress.
 
