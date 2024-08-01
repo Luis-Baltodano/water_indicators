@@ -90,6 +90,10 @@ We can see that the three sectors has increased the total volume of water used, 
 
 ![image](https://github.com/user-attachments/assets/79d59689-058c-4349-8220-9e5b2ae5c7e2)
 
+3. Country analysis
+
+Drilling through each country we can see some relevant data like population in the year 2020, the GDP and the income level clasification. 
+
 
 
 ### Results/Findings
