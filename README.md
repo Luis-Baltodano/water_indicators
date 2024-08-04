@@ -112,19 +112,24 @@ Then just need to divide the GDP for agriculture by the water withdrawal for thi
 
 ### Results/Findings
 
-1. There is enough resource to supply the needs in all social and economics sector in the region. But some factors like the geographical location (islands) can derrived in a limited water resource, increasing the water stress.
+1. There is enough resource to supply the needs in all social and economics sector in the region. But some factors like the geographical location (islands) can derived in a limited water resource, increasing the water stress.
 
-2. The agriculture and domestic sectors have increased their water withdrawal. Which means an increase in drinking water coverage, but also that there must be special attention to the agriculture activities to guarantee an efficient use of the resource. Though industry sector has increased its water needs, the growth of this sector had been slower than agriculture and domestic.
+2. The agriculture and domestic sectors have increased their water withdrawal, which means an increase in drinking water coverage, but also that there must be special attention to the agriculture activities to guarantee an efficient use of the resource. Though industry sector has increased its water needs, the growth of this sector had been slower than agriculture and domestic.
 
 3. The water productivity in agriculture can be affected for different factors beside the water withdrawal. A further analysis in this topic for those special years with peaks can help to understand how to inprove the benefits reducing the wastes in water resource by inproving these other related factors.
 
-4. 
-
+4. Although the data does not indicate important problems with the resource, this does not represent the reallity of the water management in the region, other factors must be analyzed to have a better understanding of the social and economic impact of how each country managed their available resources. Factors like people using safely drinking water services and basic sanitation, public and private investment in water and sanitation, renewable internal freshwater.
 
 
 ### Recommendations
 
+1. To a further analysis it is recommended to search data in some internal and official sources for each country, because the data provided by the world bank is limited for many countries in the region.
+
+2. Because of the remarkable differences of the Caribbean, Central American and South American countries, it is recommended to analyzed separately for each of these regions for a deeply study.
+
 ### Limitations
+
+There are many missing values in the World Bank database. Many relevant indicators for the study had to be excluded because of this.
 
    
 
