@@ -7,9 +7,9 @@
 Access to safe water and sanitation is a basic human need. Nonetheless, billions of people will lack access to these basic services by 2030 unless progress quadruples, according to the United Nations. This report helps to understand the current state of these resources in Latin America and the Caribbean by analyzing the following indicators from 1998 to 2020: water stress, freshwater withdrawal by economic sectors and water productivity.
 
 ### Data sources
-  1. Countries indicators data come from the World Bank's World Economic Development database, the data can be downloaded in the CSV file.
-  2. Basic information about countries like name, countrie's codes based in ISO 31666. Were obtained in the next API: https://api.worldbank.org/v2/country/all
-  3. Countrie's flags were obtained in the following source: https://flagsapi.com/
+  1. Countries' indicators data from the World Bank's World Economic Development database, the data can be downloaded in the CSV file.
+  2. Basic information about countries, such as names and country codes based on ISO 3166-1, was obtained from the following API: https://api.worldbank.org/v2/country/all
+  3. Countrie's flags were obtained from the following source: https://flagsapi.com/
 
 ### Data cleaning/preparation
 All the ETL process was performed with Power Query in the Power BI Desktop software, following the next steps:
