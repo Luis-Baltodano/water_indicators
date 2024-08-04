@@ -12,21 +12,21 @@ Access to safe water and sanitation is a basic human need. Nonetheless, billions
   3. Countrie's flags were obtained from the following source: https://flagsapi.com/
 
 ### Data cleaning/preparation
-All the ETL process was performed with Power Query in the Power BI Desktop software, following the next steps:
+All the ETL process were performed with Power Query in the Power BI Desktop software, following these steps:
 
   1. Data loading and inspection.
 
-     The table had an impractical structure, having all the years in different columns, selecting all the years columns and using the Unpivot columns tool gives a better structure to work with.
+     The table had an impractical structure, with all the years in different columns. Selecting all the year columns and using the Unpivot Columns tool provides a better structure to work with.
      ![image](https://github.com/Luis-Baltodano/water_indicators/assets/163363364/024f395d-954f-4381-8ec6-c8a49e381b5d)
      ![image](https://github.com/Luis-Baltodano/water_indicators/assets/163363364/4b3516c8-3aaf-4ad6-b133-5bd0047e7975)
 
-     The countries general information was downloaded in a json file and then parsed to obtained a table with needed information like ISO codes and countrie's income level.
+     The countries' general information was downloaded in a JSON file and then parsed to obtained a table with needed information like ISO codes and countries' income level.
      ![image](https://github.com/Luis-Baltodano/water_indicators/assets/163363364/cb5abf5d-7ff0-4a65-8e70-6b9043d8a84e)
      
-     Then this query was merged with another query that only had the countries in the region being analyzed, Latin America and Caribbean, and the population. Filtering just the needed data.
+     Then, this query was merged with another query that only included countries in the region being analyzed, Latin America and the Caribbean, and their populations, filtering only the needed data.
      ![image](https://github.com/Luis-Baltodano/water_indicators/assets/163363364/31aceb60-fc4b-4c31-b573-bc350a3f438a)
 
-     To this country query was added the flag API, adding a custom column that concatenate the pre-defined text of the API and the country ISO code.
+     To this country query, the flag API was added by creating a custom column that concatenates the predefined text of the API with the country ISO code.
      
      ![image](https://github.com/Luis-Baltodano/water_indicators/assets/163363364/3aafa3a5-a4f9-4982-badb-e1adbc2c582c)
 
