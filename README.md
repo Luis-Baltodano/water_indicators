@@ -59,74 +59,72 @@ We can observe that geographical location has a significant impact on water stre
 
 ![image](https://github.com/user-attachments/assets/183cd45b-1231-40b8-b35c-f400e09b5626)
 
-
 To obtain the different values for each indicator, a SUM measure was created for the values. This measure was evaluated using the CALCULATE function to focus on the indicator of interest and the specific year of study, such as in the case of water stress.
 
 ![image](https://github.com/user-attachments/assets/b521a2e3-a434-4be6-9fea-173a53e8e5db)
 
 2. Freshwater withdrawal by sector
 
-The data provided by the World Bank determined three clasifications of economic activities: **Agriculture, Domestic and Industry** being the agriculture the sector that used the most part of the resource in almost every country in the region. Understanding these the next step was to see the changes of the water withdrawal in the time and by income level.
+The data provided by the World Bank categorized economic activities into three classifications: **Agriculture, Domestic and Industry**Agriculture was the sector that used the majority of the water resources in almost every country in the region. With this understanding, the next step was to analyze changes in water withdrawal over time.
 
-First were created a different measure for calculate the average value in percentage of the water withdrawal for each sector.
+First, a different measure was created to calculate the average value in percentage of water withdrawal for each sector.
 
 ![image](https://github.com/user-attachments/assets/7f9bfab1-f7d6-4689-9e78-0160be5310ed)
 
-The withdrawal in the agriculture sector decrease 5.6% from 1998 to 2020, the domestic sector present an increase of 7.3% and the industry an increase of 2%. 
+Water withdrawal in the agriculture sector decreased by 5.6% from 1998 to 2020, while the domestic sector showed an increase of 7.3%, and the industry sector saw an increase of 2%. 
 
 ![image](https://github.com/user-attachments/assets/9d89fc55-054b-465c-a3a3-5a493ed3a0cb)
 
-This does not mean that the total water used in agriculture had decreased, on the contrary, the total volume of water withdrawal has increase over the years, from 133 billions to 216 billions of m³. So the variations in the perecentage value may indicate the increased in the access to water for urban and rural population in the region. 
+This does not mean that the total water used in agriculture has decreased. On the contrary, the total volume of water withdrawal has increased over the years, from 133 billion to 216 billion m³. The variations in the percentage values may indicate increased access to water for the urban and rural populations in the region.
 
 ![image](https://github.com/user-attachments/assets/9f7db121-4017-4f14-9739-cc26b56742a6)
 
-To calculate the volume in cubic meters of water withdrawal by sector we just multiply the total water withdrawal given by the World development indicator, by the average percentage for each sector, multipliyin by 1 billion to have complete values.
+To calculate the volume in cubic meters of water withdrawal by sector, we simply multiply the total water withdrawal provided by the World Development Indicators by the average percentage for each sector, and then multiply by 1 billion to obtain complete values.
 
 ![image](https://github.com/user-attachments/assets/cf8f82a6-994e-43bb-b2b3-e52a9e31c8e4)
 
 ![image](https://github.com/user-attachments/assets/58fd5152-ed8f-4e53-9b1c-1c17a332e3f3)
 
-We can see that the three sectors has increased the total volume of water used, but this had not a significant impact in the water stress index along the period. The water stress in the regiong augment 0.9% from 1998 to 2020.
+We can see that the total volume of water used has increased across all three sectors. However, this has not had a significant impact on the water stress index over the period. The water stress in the region increased by only 0.9% from 1998 to 2020.
 
 ![image](https://github.com/user-attachments/assets/79d59689-058c-4349-8220-9e5b2ae5c7e2)
 
 3. Country analysis
 
-Drilling through each country we can see some relevant data like population in the year 2020, the GDP and the income level clasification. The agriculture sector represents the major withdrawal of freshwater, mostly in Lower and Upper middle income countries. In the analysis by country we can see the water usage distribution along the three economic sectors and the water productivity factor for agriculture.
+Drilling through each country, we can observe relevant data such as the population in the year 2020, GDP, and income level classification. The agriculture sector represents the major withdrawal of freshwater, primarily in lower and upper middle-income countries. In the country-level analysis, we can see the distribution of water usage across the three economic sectors and the water productivity factor for agriculture.
 
 ![image](https://github.com/user-attachments/assets/c542b325-6be6-4567-91e3-b05e4c91b052)
 
-The water productivity factor helps to understand the water use efficiency in terms of money, it is expressed in dollar by cubic meter. This factor is important to support sustainable water management, and maximizing the economic and environmental benefits derived from water resources.
+The water productivity factor helps to understand water use efficiency in monetary terms, expressed in dollars per cubic meter. This factor is important for supporting sustainable water management and maximizing the economic and environmental benefits derived from water resources.
 
-The World Economic Development database gives us the series indicator of percentage of GDP for agricultre, foresty and fishing, with the GDP we can calculate the amount of money for the sector.
+The World Economic Development database provides a series indicator for the percentage of GDP from agriculture, forestry, and fishing. With the GDP data, we can calculate the monetary value for the sector.
 
 ![image](https://github.com/user-attachments/assets/5c720eeb-caba-40ea-aeb2-a6a5eec798dd)
 
-With the percentage of water withdrawal for agricultre and the total water withdrawal expressed in cubic meters, was calculated the amount of cubic meters for agriculture.
+Using the percentage of water withdrawal for agriculture and the total water withdrawal expressed in cubic meters, the amount of cubic meters used for agriculture was calculated.
 
 ![image](https://github.com/user-attachments/assets/a59ce156-488c-4a82-b3c8-c89fe43c260a)
 
-Then just need to divide the GDP for agriculture by the water withdrawal for this sector.
+Then, we just need to divide the GDP for agriculture by the water withdrawal for this sector to obtain the water productivity factor.
 
 ![image](https://github.com/user-attachments/assets/fa674b16-bf1c-4cf4-bacd-3e746d4a275f)
 
 ### Results/Findings
 
-1. There is enough resource to supply the needs in all social and economics sector in the region. But some factors like the geographical location (islands) can derived in a limited water resource, increasing the water stress.
+1. There is enough resource to supply the needs of all social and economic sectors in the region. However, factors like geographical location (islands) can lead to limited water resources, increasing water stress.
 
-2. The agriculture and domestic sectors have increased their water withdrawal, which means an increase in drinking water coverage, but also that there must be special attention to the agriculture activities to guarantee an efficient use of the resource. Though industry sector has increased its water needs, the growth of this sector had been slower than agriculture and domestic.
+2. The agriculture and domestic sectors have increased their water withdrawal, indicating an increase in drinking water coverage. However, there must be special attention to agricultural activities to ensure efficient use of the resource. Although the industry sector has increased its water needs, its growth has been slower than that of agriculture and domestic sectors.
 
-3. The water productivity in agriculture can be affected for different factors beside the water withdrawal. A further analysis in this topic for those special years with peaks can help to understand how to inprove the benefits reducing the wastes in water resource by inproving these other related factors.
+3. Water productivity in agriculture can be affected by various factors besides water withdrawal. Further analysis of this topic for specific years with peaks can help to understand how to improve benefits and reduce water resource waste by enhancing these other related factors.
 
-4. Although the data does not indicate important problems with the resource, this does not represent the reallity of the water management in the region, other factors must be analyzed to have a better understanding of the social and economic impact of how each country managed their available resources. Factors like people using safely drinking water services and basic sanitation, public and private investment in water and sanitation, renewable internal freshwater.
+4. Although the data does not indicate significant problems with the resource, this does not fully represent the reality of water management in the region. Other factors must be analyzed to gain a better understanding of the social and economic impact of how each country manages its available resources. Factors such as people using safely drinking water services and basic sanitation, public and private investment in water and sanitation, and renewable internal freshwater should be considered.
 
 
 ### Recommendations
 
-1. To a further analysis it is recommended to search data in some internal and official sources for each country, because the data provided by the world bank is limited for many countries in the region.
+1. For a more detailed analysis, it is recommended to seek data from internal and official sources for each country, as the data provided by the World Bank may be limited for many countries in the region.
 
-2. Because of the remarkable differences of the Caribbean, Central American and South American countries, it is recommended to analyzed separately for each of these regions for a deeply study.
-
+2. Given the significant differences between Caribbean, Central American, and South American countries, it is recommended to analyze each of these regions separately for a more in-depth study.
 ### Limitations
 
 There are many missing values in the World Bank database. Many relevant indicators for the study had to be excluded because of this.
