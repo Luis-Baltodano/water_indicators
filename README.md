@@ -2,6 +2,12 @@
 
 ## Table of content
 - [Project overview](#Project-overview)
+- [Data sources](#Data-sources)
+- [Data cleaning/preparation](#Data-cleaning/preparation)
+- [Data Analysis](#Data-Analysis)
+- [Results/Findings](#Results/Findings)
+- [Recommendations](#Recommendations)
+
 
 ### Project overview
 Access to safe water and sanitation is a basic human need. Nonetheless, billions of people will lack access to these basic services by 2030 unless progress quadruples, according to the United Nations. This report helps to understand the current state of these resources in Latin America and the Caribbean by analyzing the following indicators from 1998 to 2020: water stress, freshwater withdrawal by economic sectors and water productivity.
